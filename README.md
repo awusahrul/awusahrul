@@ -1,5 +1,5 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&width=480&lines=Hi!%2C+I'am+Sahrul+👋)](https://git.io/typing-svg)
-</h1>
+<h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&width=480&lines=Hi!%2C+I'am+Sahrul+👋)](https://git.io/typing-svg)
+ </h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awusahrul" alt="awusahrul" /></a> </p>
