@@ -1,17 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&width=480&lines=Hi!%2C+I'am+Sahrul)](https://git.io/typing-svg)
-
-🎓 SLTA - Teknik  
-👨‍💻 Sertifikasi Pengembangan Web  
-🇮🇩 Berbasis di Sulawesi Tengah, Indonesia  
-💡 Meningkatkan Nilai Proyek  
-✨ Kreatif di Dunia Digital  
-
-<h1 align="center">Hi 👋, I'm Sahrul</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&width=480&lines=Hi!%2C+I'am+Sahrul+👋)](https://git.io/typing-svg)
+</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awusahrul" alt="awusahrul" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/awusahrul" target="blank"><img src="https://img.shields.io/twitter/follow/awusahrul?logo=twitter&style=for-the-badge" alt="awusahrul" /></a> </p>
+- 🎓 SLTA - Teknik  
+
+- 👨‍💻 Web Development Certification
+
+- 🇮🇩 Based in Central Sulawesi, Indonesia
+
+- 💡 Increasing Project Value  
+
+- ✨ Creative in the Digital World  
 
 - 🔭 I’m currently working on [Awu 002 Projects](#)
 
