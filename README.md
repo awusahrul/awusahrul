@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&width=480&lines=Hi!%2C+I'am+Sahrul)](https://git.io/typing-svg)
 <br>
-- 🎓 SLTA - TEKNIK
-- 👨‍💻 WEB DEVELOPMENT BERSERTIFIKAT
-- 🇮🇩 SULAWESI TENGAH - INDONESIA
-- 💡 MEMBERIKAN NILAI TAMBAH PADA PROJECTS
-- ✨ BERKREASI DI DUNIA DIGITAL
+- 🎓 SLTA - Teknik
+- 👨‍💻 Sertifikasi Pengembangan Web
+- 🇮🇩 Berbasis di Sulawesi Tengah, Indonesia
+- 💡 Meningkatkan Nilai Proyek
+- ✨ Kreatif di Dunia Digital
 
-### Connect with Me:
+### Terhubung dengan Saya:
 
 - Instagram: [Instagram](https://www.instagram.com/awusahrul)
 - Tiktok: [Tiktok](https:/www.tiktok.com/@awusahrul)
@@ -17,7 +17,7 @@
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,tailwind,nodejs,react,c++,laravel&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,tailwind,nodejs,react,cpp,laravel&perline=5" />
   </a>
 </p>
 <br>
