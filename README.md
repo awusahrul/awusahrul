@@ -1,16 +1,43 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&width=480&lines=Hi!%2C+I'am+Sahrul)](https://git.io/typing-svg)
+<br>
+- 🎓 A dedicated Informatics student
+- 👨‍💻 Exploring the realm of web development
+- 🌐 Passionate about crafting engaging online experiences
+- 💡 Committed to innovative solutions that add value
+- ✨ Let's create together in the digital world!
 
-<!--
-**awusahrul/awusahrul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with Me:
 
-Here are some ideas to get you started:
+- Instagram: [Instagram](https://www.instagram.com/awusahrul)
+- Tiktok: [Tiktok](https:/www.tiktok.com/@awusahrul)
+- YouTube: [YouTube]()
+- Email: [Email](s@gmail.com)
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,tailwind,nodejs,react,laravel&perline=5" />
+  </a>
+</p>
+<br>
+
+## Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,xd,ai,figma,&perline=13" />
+  </a>
+</p>
+
+<br>
+<br>
+<p align="center">
+  <a href="https://github.com/anang2727">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anang2727&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anang2727&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+<br>
+--
+<br />
+
