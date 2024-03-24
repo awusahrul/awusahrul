@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&width=480&lines=Hi!%2C+I'am+Sahrul)](https://git.io/typing-svg)
 <br>
-- 🎓 A dedicated Informatics student
-- 👨‍💻 Exploring the realm of web development
-- 🌐 Passionate about crafting engaging online experiences
-- 💡 Committed to innovative solutions that add value
-- ✨ Let's create together in the digital world!
+- 🎓 SLTA - TEKNIK
+- 👨‍💻 WEB DEVELOPMENT BERSERTIFIKAT
+- 🇮🇩 SULAWESI TENGAH - INDONESIA
+- 💡 MEMBERIKAN NILAI TAMBAH PADA PROJECTS
+- ✨ BERKREASI DI DUNIA DIGITAL
 
 ### Connect with Me:
 
@@ -17,7 +17,7 @@
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,tailwind,nodejs,react,laravel&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,tailwind,nodejs,react,c++,laravel&perline=5" />
   </a>
 </p>
 <br>
