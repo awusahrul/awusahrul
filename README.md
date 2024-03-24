@@ -29,3 +29,13 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=awusahrul&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=awusahrul&layout=compact&langs_count=8&theme=algolia"/>
 </p>
+
+<br>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=awusahrul&theme=github"/>
+</p>
+
+---
+
+⭐️ Dari [awusahrul](https://github.com/awusahrul)
