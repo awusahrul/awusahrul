@@ -50,4 +50,4 @@
 
 ---
 
-⭐️ Dari [awusahrul](https://github.com/awusahrul)
+⭐️ From [awusahrul](https://github.com/awusahrul)
