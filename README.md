@@ -20,7 +20,9 @@
 
 ## Certificate
 <p align="center">
-    <img src="https://github.com/awusahrul/awusahrul/blob/main/Web%20Development_certificate.jpg?raw=true" />
+    <img height="180em" src="https://github.com/awusahrul/awusahrul/blob/main/Web%20Development_certificate.jpg?raw=true" />
+    <img height="180em" src="https://github.com/awusahrul/awusahrul/blob/main/Introduction%20to%20CSS_certificate.jpg?raw=true"/>
+    <img height="180em" src="https://github.com/awusahrul/awusahrul/blob/main/Introduction%20to%20HTML_certificate.jpg?raw=true"/>
 </p>
 <br>
 
