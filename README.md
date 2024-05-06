@@ -18,6 +18,12 @@
 - Email: [Email](Sahrul@awu.my.id)
 <br />
 
+## Certificate
+<p align="center">
+    <img src="https://github.com/awusahrul/awusahrul/blob/main/Web%20Development_certificate.jpg?raw=true" />
+</p>
+<br>
+
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
