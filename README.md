@@ -1,7 +1,7 @@
 <img src="./@/img/header.png" width="100%"/>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&width=480&lines=Hi!%2C+I'am+Sahrul;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&size=32&pause=1000&width=480&lines=Hi!%2C+I'am+Sahrul;Full+Stack+Developer)](https://git.io/typing-svg)
 
 <br>
 
