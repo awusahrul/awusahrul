@@ -1,7 +1,16 @@
 <img src="./@/img/header.png" width="100%"/>
 <br>
-
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&size=32&pause=1000&width=480&lines=Hi!%2C+I'am+Sahrul;Full+Stack+Developer)](https://git.io/typing-svg)
+-->
+<!-- Bagian 1: sebelum nama (Fira Code) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=220&lines=Hi!%2C+I'am+" alt="typing part1" style="vertical-align:middle"/>
+
+<!-- Bagian 2: nama 'Sahrul' (Quicksand) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=28&pause=1000&width=160&lines=Sahrul" alt="typing Sahrul" style="vertical-align:middle"/>
+
+<!-- Bagian 3: setelah nama (Fira Code) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=360&lines=Full+Stack+Developer" alt="typing part3" style="vertical-align:middle"/>
 
 <br>
 
