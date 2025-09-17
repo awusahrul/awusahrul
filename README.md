@@ -36,15 +36,15 @@
 </p>
 
 <br>
-
+<!--
 ## 🏆 GitHub Trophies
 <div align="center">
   <a href="#">
     <img src="https://github-profile-trophy.vercel.app/?username=awusahrul&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophy" />
   </a>
 </div>
-
-<br>
+<!--
+<br> -->
 
 ## 🔥 GitHub Streak
 <div align="center">
